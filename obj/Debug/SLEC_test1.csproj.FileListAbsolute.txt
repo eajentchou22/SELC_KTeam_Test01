@@ -1,0 +1,8 @@
+D:\project\SLEC_test1\bin\Debug\ProjectTemplates\CSharp\1033\SLEC_test1.zip
+D:\project\SLEC_test1\obj\Debug\SLEC_test1.csproj.AssemblyReference.cache
+D:\project\SLEC_test1\obj\Debug\_EmptyResource.resources
+D:\project\SLEC_test1\obj\Debug\SLEC_test1.csproj.GenerateResource.cache
+D:\project\SLEC_test1\obj\Debug\SLEC_test1.csproj.CoreCompileInputs.cache
+D:\project\SLEC_test1\obj\Debug\CSharp\1033\SLEC_test1.zip
+D:\project\SLEC_test1\obj\Debug\SLEC_test1.dll
+D:\project\SLEC_test1\obj\Debug\SLEC_test1.pdb
